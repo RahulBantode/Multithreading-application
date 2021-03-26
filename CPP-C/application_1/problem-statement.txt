@@ -1,0 +1,7 @@
+/*Problem Statement -
+
+  Program to create two thread under the main thread.
+	1. 1st thread will count the even number from 1 to 500.
+	2. 2nd thread will count the odd number from 1 to 500.
+	
+*/
