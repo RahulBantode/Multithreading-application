@@ -1,0 +1,6 @@
+Thread Synchronization
+Problem Statement
+
+//Creating the thread and make the synchronization between those thread
+//thread-1 is open the file and write some text in that file 
+//thread-2 is open the file and read all the text from that file.
