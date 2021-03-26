@@ -1,0 +1,24 @@
+The repository consist of mutithreading and thread synchronization
+application using JAVA-
+
+Java is the first who introduce the multithreading concept at language level.
+
+In java we can multithreading is achieve by two ways-
+1. By extending the Thread class
+2. By implementing the runnable interface
+
+1. When we creating the thread using / extending the  Thread class
+   we can faciliate with all the function of the thread class
+   
+2. When we implements the runnable interface - which having only one method
+   declaration as void run() which is the abastract method we can override it and 
+   implement it by own logic.
+   
+3. Thread Synchronization :-
+   When the resource are global for all the threads and 2 or more thread requested for the resource at
+   a same time, then due to lack of synchronization the ambiguity is arise so to resolve this ambiguity or problem
+   we need make thread synchronize.
+   
+   To make thread synchronization -
+   the resource or method which are global for all the thread make it as synchronized method
+   
