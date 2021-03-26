@@ -1,0 +1,5 @@
+Problem statement:-
+
+Program to create one thread  
+the thread function will accept the one argument 
+and return that argument from function to the main thread
