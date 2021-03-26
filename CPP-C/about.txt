@@ -1,0 +1,5 @@
+The directory consist Multithreading application of C C++ 
+technology.
+In which developed application are in seprated folder, the folder has
+source file,executable file,output file and one makefile - simply makefile
+define as the,in the makefile we write commands of build and execute the source file.
